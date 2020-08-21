@@ -1,10 +1,10 @@
 ### Helloooaaaa.....!!! 👋
 
 
-- 🔭 I’m currently working on ... Nothing
-- 🌱 I’m currently learning ... Python
+- 🔭 I’m currently working on ... *Nothing*
+- 🌱 I’m currently learning ... **Python**
 - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... Python
+- 🤔 I’m looking for help with ... __Python__
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/taj_0023/)
 - 😄 Pronouns: ... He/Him/Dude
@@ -23,3 +23,4 @@
 
 
 
+___
