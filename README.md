@@ -8,6 +8,6 @@
 - 💬 Ask me about ... __Python__
 - 📫 How to reach me: ... [@Instagram](https://www.instagram.com/taj_0023/)
 - 😄 Pronouns: ... He/Him/Dude
-- ⚡ Fun fact: ... I am a *psychopath*
+- ⚡ Fun fact: ... I'm a ~~NOOB~~
 
 
