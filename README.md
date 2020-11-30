@@ -1,7 +1,7 @@
 ### Sup Guys.....!!!     <a href="https:thengakola420.tk"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-- 🔭 I’m currently working on *Something nice and new* :yum:.
+- 🔭 I’m currently working on *Something nice and new* :yum:
 - 🌱 I’m currently learning **Python**
 - 🤔 I’m looking for help with __Python__
 - 💬 Ask me about __Python__
