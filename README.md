@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with __Python__
 - 💬 Ask me about __Python__
 - 📫 How to reach me:  [@Instagram](https://www.instagram.com/taj_0023/)
-- 😄 Pronouns: *He/Him/Dude*
+- 😄 Pronouns: *He/Him/Dude/Bruh*
 - ⚡ Fun fact: I'm a  :pirate_flag:***Pirate***:pirate_flag:
 
 
