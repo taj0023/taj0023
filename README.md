@@ -1,6 +1,6 @@
 ### Sup Guys.....!!!     <a href="https:thengakola420.tk"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <p align='center'>
-    <img src="https://i.imgur.com/LEQNfPs.gif" />
+    <img src = 'pirate.gif' width = '300' >
 </p>
 
 - 🔭 I’m currently working on *Something nice and new* :yum:
