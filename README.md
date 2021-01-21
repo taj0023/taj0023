@@ -3,7 +3,7 @@
     <img src = 'pirate.gif' height="200" width = '600' >
 </p>
 
-- 🔭 I’m currently working on *Something nice and new* :yum:
+- 🔭 I’m currently working on *Something nice and new* (I have no idea what I'm doin', tbh)
 - 🌱 I’m currently learning **Python**
 - 🤔 I’m looking for help with __Python__
 - 💬 Ask me about __Python__
