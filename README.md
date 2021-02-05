@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Python**
 - 🤔 I’m looking for help with __Python__
 - 💬 Ask me about __Python__
-- 📫 How to reach me:  [@Instagram](https://www.instagram.com/taj_0023/)
+- 📫 How to reach me:  [@Instagram](https://www.instagram.com/taj_0023/), [@Discord](https://discordapp.com/users/716144986797899807)
 - 😄 Pronouns: *He/Him/Dude/Bruh*
 - ⚡ Fun fact: I'm a  :pirate_flag:***Pirate***:pirate_flag:
 
