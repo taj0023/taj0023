@@ -1,4 +1,4 @@
-### Ahoy mate'.....!!!     <a href="https:thengakola420.tk"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Ahoy mate'.....!!!     <a href="https://thengakola420.tk"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <p align='center'>
     <img src = 'pirate.gif' height="200" width = '600' >
 </p>
